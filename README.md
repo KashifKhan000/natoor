@@ -1,2 +1,0 @@
-# natoor
-Real State Project
